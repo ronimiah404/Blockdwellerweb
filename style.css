@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  background-color: #0a0a0a;
+  color: #e5e5e5;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #161b22;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+button {
+  margin-top: 1.2rem;
+  background-color: #00ffa0;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: #000;
+}
+
+footer {
+  background: #111;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
